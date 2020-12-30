@@ -1,0 +1,5 @@
+rootProject.name='Day1'
+include ':app'
+include ':locationdemo'
+include ':citydemo'
+include ':citydemo2'
